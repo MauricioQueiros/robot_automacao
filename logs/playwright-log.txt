@@ -1,0 +1,11 @@
+{"level":30,"time":"2021-02-12T20:46:05.623Z","pid":9972,"hostname":"LAPTOP-7OQR0SOP","msg":"Listening on 50672"}
+{"level":30,"time":"2021-02-12T20:46:07.177Z","pid":9972,"hostname":"LAPTOP-7OQR0SOP","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T20:46:07.474Z","pid":9972,"hostname":"LAPTOP-7OQR0SOP","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-12T20:46:07.474Z","pid":9972,"hostname":"LAPTOP-7OQR0SOP","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T20:46:15.978Z","pid":9972,"hostname":"LAPTOP-7OQR0SOP","msg":"Getting css of element on page"}
+{"level":30,"time":"2021-02-12T20:46:16.336Z","pid":9972,"hostname":"LAPTOP-7OQR0SOP","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T20:46:16.337Z","pid":9972,"hostname":"LAPTOP-7OQR0SOP","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T20:46:16.337Z","pid":9972,"hostname":"LAPTOP-7OQR0SOP","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T20:46:16.358Z","pid":9972,"hostname":"LAPTOP-7OQR0SOP","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T20:46:16.358Z","pid":9972,"hostname":"LAPTOP-7OQR0SOP","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T20:46:16.358Z","pid":9972,"hostname":"LAPTOP-7OQR0SOP","msg":"Changed active page"}
